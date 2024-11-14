@@ -1,0 +1,62 @@
+# Current Essential Dependencies
+mysql-connector-python
+streamlit
+google-generativeai
+google-api-core
+google-auth
+python-dotenv
+typing_extensions
+certifi
+requests
+pickle5
+datetime
+
+# LangChain Framework
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+
+# Vector Store and Embeddings
+faiss-cpu
+sentence-transformers
+
+# PDF Processing
+PyPDF2
+python-magic
+python-magic-bin; platform_system == "Windows"
+
+# UI and Visualization
+gradio
+
+# Machine Learning and Data Processing
+numpy
+pandas
+scikit-learn
+
+# Hugging Face
+transformers
+torch
+accelerate
+
+# Web Crawling and Parsing
+beautifulsoup4
+lxml
+
+# Additional Utilities
+tqdm
+typing-inspect
+charset-normalizer
+aiohttp
+streamlit-chat
+regex
+markupsafe
+jinja2
+
+# Development Tools
+pytest
+black
+flake8
+isort
+mypy
+pylint
